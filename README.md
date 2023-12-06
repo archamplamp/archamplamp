@@ -6,7 +6,7 @@ Backend Developer
 
 * 🌍  I'm based in Bangkok,Thailand
 * 🚀  I'm currently working on [FUJIFILM (THAILAND) Ltd.](http:////www.fujifilm.com/th/en)
-* 🧠  I'm learning NodeJS MongoDB
+
 
 <a href="https://www.github.com/archamplamp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/archamplamp?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
